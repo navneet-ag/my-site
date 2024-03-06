@@ -3,7 +3,7 @@ Your project's description...
 
 ## Environments
 - Preview: https://main--my-site--navneet-ag.hlx.page/
-- Live: https://main--my-site--navneet-ag.hlx.page/
+- Live: https://main--my-site--navneet-ag.hlx.live/
 
 ## Installation
 
